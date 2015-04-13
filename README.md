@@ -31,8 +31,8 @@ Markdown的基本语法
 ![百度Logo](http://www.baidu.com/img/bdlogo.png "baidu")
 
 ### 点击图片进入特定网址
-格式：![[介绍文字]] + (url)    
-[![百度Logo]](http://www.baidu.com/)
+格式：[!介绍文字] + (url)    
+[!百度Logo](http://www.baidu.com/)
 
 
 
